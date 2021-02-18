@@ -1,3 +1,4 @@
 # Neustar
-This is my first repo
-This is my first branch for test
+#Print Hello word 
+echo 'Hello Word'
+exit 
